@@ -1,7 +1,7 @@
 # 🤖 LLM Chatbot em Python — Dinastra Edition
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
+  <img src="https://i.pinimg.com/originals/d2/31/22/d23122e46673b094ff8b612c5a8e4c99.gif" width="420" />
 </p>
 
 > Um chatbot simples, direto e poderoso, criado em Python com integração a LLM, focado em aprendizado, carreira e tecnologia.
